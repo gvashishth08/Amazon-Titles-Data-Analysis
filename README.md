@@ -1,5 +1,5 @@
 # Amazon-Titles-Data-Analysis
-I developed a comprehensive project in Excel, creating dashboard and tables to analyze the data. This process involved several stages, Including data preprocessing, data cleaning , and data visualization.
+I developed a comprehensive project in Power BI, creating dashboard and tables to analyze the data. This process involved several stages, Including data preprocessing, data cleaning , and data visualization.
 
  Analyzed Amazon title data to uncover insights on content distribution and performance metrics.
 - Visualized total shows by country using a filled map to highlight regional variations in content availability.
